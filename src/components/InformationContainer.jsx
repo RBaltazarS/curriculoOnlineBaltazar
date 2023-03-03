@@ -16,7 +16,7 @@ const InformationContainer = () => {
         <AiOutlineMail id="emailIcon" />
         <div>
           <h3>E-mail</h3>
-          <a href= "mailto:rodolpho.baltazar@hotmail.com?" target="_blank">Rodolpho.Baltazar@</a>
+          <a href= "mailto:rodolpho.baltazar@hotmail.com?" target="_blank">Rodolpho.Baltazar</a>
         </div>
       </div>
       <div className="infoCard">
